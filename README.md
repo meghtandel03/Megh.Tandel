@@ -131,28 +131,6 @@ Long Jump — SVKM Yuva Utsav
 
 ---
 
-## **📊 GitHub Analytics**
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=meghtandel03&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meghtandel03&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-
-</div>
-
----
-
-## **📈 Contribution Graph**
-
-<div align="center">
-
-[![Megh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=meghtandel03\&theme=tokyo-night\&hide_border=true)](https://github.com/meghtandel03)
-
-</div>
-
----
-
 ## **🤝 Connect With Me**
 
 <div align="center">
