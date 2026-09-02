@@ -4,7 +4,7 @@
 
 ### `CSE (Data Science) Student` • `Developer` • `Footballer`
 
-**B.Tech Computer Science & Engineering (Data Science) @ NMIMS Shirpur**
+**B.Tech Computer Science & Engineering (Data Science) @ NMIMS **
 
 [![GitHub](https://img.shields.io/badge/GitHub-meghtandel03-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/meghtandel03)
 
