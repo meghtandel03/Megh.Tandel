@@ -7,7 +7,9 @@
 **B.Tech Computer Science & Engineering (Data Science) @ NMIMS Shirpur**
 
 [![GitHub](https://img.shields.io/badge/GitHub-meghtandel03-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/meghtandel03)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Megh%20Tandel-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/megh-tandel-0b1484311/)
+
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:meghtandel03@gmail.com)
 
 </div>
