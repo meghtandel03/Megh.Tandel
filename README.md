@@ -154,6 +154,4 @@ Long Jump — SVKM Yuva Utsav
 
 ### `Build • Learn • Compete • Repeat`
 
-![Profile Views](https://komarev.com/ghpvc/?username=meghtandel03\&style=flat-square\&color=blue)
-
 </div>
