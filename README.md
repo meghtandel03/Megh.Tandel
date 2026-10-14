@@ -385,16 +385,6 @@ SVKM Yuva Utsav
 
 ---
 
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=meghtandel03&bg_color=00000000&color=2563EB&line=2563EB&point=1E3A8A&area=true&hide_border=true" width="95%"/>
-
-</div>
-
----
-
 # 🎯 Currently Working On
 
 <div align="center">
