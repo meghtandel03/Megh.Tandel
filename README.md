@@ -1,113 +1,86 @@
 <div align="center">
 
-# 👋 Hey, I'm Megh Tandel
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:2563EB&height=220&section=header&text=Megh%20Tandel&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CSE%20(Data%20Science)%20Student%20%7C%20Developer%20%7C%20Footballer&descAlignY=60&descSize=18" width="100%"/>
 
-### `CSE (Data Science) Student` • `Developer` • `Footballer`
+<br>
 
-**B.Tech Computer Science & Engineering (Data Science) @ NMIMS **
+<a href="https://github.com/meghtandel03">
+<img src="https://komarev.com/ghpvc/?username=meghtandel03&label=Profile%20Views&color=2563EB&style=flat-square" />
+</a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-meghtandel03-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/meghtandel03)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Megh%20Tandel-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/megh-tandel-0b1484311/)
-
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:meghtandel03@gmail.com)
+<a href="https://github.com/meghtandel03?tab=followers">
+<img src="https://img.shields.io/github/followers/meghtandel03?label=Followers&style=flat-square&color=1E3A8A" />
+</a>
 
 </div>
 
 ---
 
-## **About Me**
+<div align="center">
 
-```text
-🎓  B.Tech CSE (Data Science) student at NMIMS
-💻  Exploring software development & data science
-🧠  Building strong foundations in C, Java & Python
-🎨  Interested in UI/UX and practical software solutions
-⚽  NMIMS Football Representative
-🚀  Learning by building, experimenting & competing
-```
+### 👋 Hey, I'm Megh
 
-I'm focused on turning what I learn into **practical projects**, while continuously improving my programming, problem-solving, and development skills.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=B.Tech+CSE+(Data+Science)+%40+NMIMS;Developer+%7C+Data+Science+Enthusiast;Building+Projects+%26+Learning+Every+Day;Footballer+%7C+Event+Organizer+%7C+Problem+Solver" />
 
----
+</div>
 
-## **Tech Stack**
+<br>
 
-### 💻 Languages
+<div align="center">
 
-<p>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
+<a href="https://github.com/meghtandel03">
+<img src="https://img.shields.io/badge/GitHub-meghtandel03-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-### 🌐 Web & Tools
+<a href="https://www.linkedin.com/in/megh-tandel-0b1484311/">
+<img src="https://img.shields.io/badge/LinkedIn-Megh%20Tandel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
+<a href="mailto:meghtandel03@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-## **Featured Projects**
-
-### ⚽ Narsee Monjee Football League — NMFL
-
-> Organized and coordinated NMFL 2026 at NMIMS Shirpur.
-
-**What I handled:**
-
-* 📅 Fixtures & scheduling
-* 🏟️ Matchday operations
-* 📢 Team communication
-* 🤝 Tournament coordination
-
-`Event Management` `Coordination` `Operations`
-
----
-
-### 💻 1RIVET — Software Development & UI/UX
-
-> Internship experience contributing to software development and user experience.
-
-**Contributed to:**
-
-* 🎨 UI/UX components
-* 🌐 Front-end modules
-* ⚙️ Back-end modules
-* 📋 Project planning & management
-
-`UI/UX` `Software Development` `Project Management`
-
----
-
-## **🏆 Beyond Code**
+# 🧑‍💻 About Me
 
 <table>
 <tr>
-<td align="center" width="50%">
+<td width="55%" valign="top">
 
-### ⚽ Football
+### Hey there! 👋
 
-**All India University Sports**
+I'm **Megh Jayesh Tandel**, a B.Tech Computer Science & Engineering student specializing in **Data Science at NMIMS**.
 
-Represented NMIMS
+I'm currently focused on building strong foundations in programming, software development, data science, and problem-solving.
 
-**2nd Place**
-Inter-NMIMS Football
+I prefer **learning by building** rather than just studying theory. My goal is to turn ideas into practical projects and gradually develop the skills needed to solve real-world problems.
 
 </td>
 
-<td align="center" width="50%">
+<td width="45%" valign="top">
 
-### 🏃 Athletics
+### ⚡ Quick Snapshot
 
-🥈 **Silver Medal**
-Long Jump — SVKM Yuva Utsav
+🎓 **Education**  
+B.Tech CSE — Data Science
 
-🥉 **Bronze Medal**
-4×100m Relay — SVKM Yuva Utsav
+🏫 **University**  
+NMIMS
+
+💻 **Currently Exploring**  
+Software Development • Data Science
+
+🧠 **Core Languages**  
+C • Java • Python
+
+🎨 **Interests**  
+UI/UX • Technology • Sports
+
+⚽ **Beyond Coding**  
+Football • Athletics • Event Management
 
 </td>
 </tr>
@@ -115,36 +88,378 @@ Long Jump — SVKM Yuva Utsav
 
 ---
 
-## **🚀 Leadership & Experience**
+# 🛠️ Tech Stack
 
-**Event Management Organizing Committee**
-`Protsahan 2026 • NMIMS Shirpur`
+### 👨‍💻 Programming
 
-**Event Management & Documentation**
-`Google Developers Group on Campus • NMIMS Shirpur`
+<p align="left">
 
-**Football Representative**
-`NMIMS • AIU Sports • Inter-NMIMS • SVKM Yuva Utsav`
+<img src="https://skillicons.dev/icons?i=c,java,python" />
 
-**Creative & Social Media and Managment Organizing Committee**
-`App Development Club • NMIMS Shirpur`
+</p>
+
+### 🌐 Web Development
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+
+</p>
+
+### 🗄️ Data & Development Tools
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
+
+</p>
 
 ---
 
-## **🤝 Connect With Me**
+# 🚀 Projects
 
 <div align="center">
 
-### Let's build something meaningful.
+### 💻 Projects that turn learning into practical experience
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/megh-tandel-0b1484311/)
+</div>
 
-[![Email](https://img.shields.io/badge/Email-meghtandel03%40gmail.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:meghtandel03@gmail.com)
+<table>
+<tr>
 
-[![GitHub](https://img.shields.io/badge/GitHub-meghtandel03-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/meghtandel03)
+<td width="33%" valign="top">
+
+<h3 align="center">🍔 Project 01</h3>
+
+<div align="center">
+
+### Online Food Ordering System
+
+</div>
+
+A console-based application designed to simulate an online food ordering workflow.
+
+**Built With**
+
+`Java` `OOP`
+
+**Key Features**
+
+- Menu management
+- Customer orders
+- Order calculation
+- Menu-driven interface
+
+<div align="center">
+
+<a href="https://github.com/meghtandel03">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+</td>
+
+<td width="33%" valign="top">
+
+<h3 align="center">📊 Project 02</h3>
+
+<div align="center">
+
+### Data Analytics Project
+
+</div>
+
+A data-focused project designed to analyze a real-world dataset and extract meaningful insights.
+
+**Built With**
+
+`Python` `Pandas` `SQL`
+
+**Key Features**
+
+- Data cleaning
+- Exploratory analysis
+- Data visualization
+- Insight generation
+
+<div align="center">
+
+<a href="https://github.com/meghtandel03">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+</td>
+
+<td width="33%" valign="top">
+
+<h3 align="center">🌐 Project 03</h3>
+
+<div align="center">
+
+### Personal Portfolio
+
+</div>
+
+A personal portfolio website showcasing my skills, projects, achievements and experience.
+
+**Built With**
+
+`HTML` `CSS` `JavaScript`
+
+**Key Features**
+
+- Responsive design
+- About section
+- Projects showcase
+- Contact section
+
+<div align="center">
+
+<a href="https://github.com/meghtandel03">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+</td>
+
+</tr>
+</table>
+
+> 🚧 **More projects will be added as I build and experiment.**
+
+---
+
+# ⚽ Narsee Monjee Football League — NMFL
+
+<table>
+<tr>
+
+<td width="60%" valign="top">
+
+### 🏟️ Event Organization
+
+Organized and coordinated **NMFL 2026 at NMIMS Shirpur**.
+
+**What I handled**
+
+📅 Fixtures & scheduling  
+🏟️ Matchday operations  
+📢 Team communication  
+🤝 Tournament coordination  
+📋 Event management
+
+</td>
+
+<td width="40%" valign="top">
+
+### Skills Developed
+
+`Leadership`
+
+`Communication`
+
+`Coordination`
+
+`Operations`
+
+`Team Management`
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 💼 Experience & Leadership
+
+<table>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🎯 Event Management
+
+**Protsahan 2026**  
+NMIMS Shirpur
+
+Event Management Organizing Committee
+
+</td>
+
+<td width="50%" valign="top">
+
+### 👨‍💻 Technology
+
+**1RIVET**  
+Software Development & UI/UX Internship
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 📸 Google Developers Group
+
+**GDG on Campus — NMIMS Shirpur**
+
+Event Management & Documentation
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎨 App Development Club
+
+**NMIMS Shirpur**
+
+Creative, Social Media & Marketing
+
+</td>
+</tr>
+
+</table>
+
+---
+
+# 🏆 Achievements
+
+<table>
+<tr>
+
+<td align="center" width="50%">
+
+## ⚽ Football
+
+🏅 **All India University**
+
+Represented NMIMS
+
+🥈 **Inter-NMIMS Football**
+
+Secured 2nd Position
+
+</td>
+
+<td align="center" width="50%">
+
+## 🏃 Athletics
+
+🥈 **Long Jump**
+
+SVKM Yuva Utsav
+
+🥉 **4×100m Relay**
+
+SVKM Yuva Utsav
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=meghtandel03&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meghtandel03&layout=compact&theme=transparent&hide_border=true" height="180"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=meghtandel03&theme=transparent&hide_border=true" width="70%"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=meghtandel03&bg_color=00000000&color=2563EB&line=2563EB&point=1E3A8A&area=true&hide_border=true" width="95%"/>
+
+</div>
+
+---
+
+# 🎯 Currently Working On
+
+<div align="center">
+
+| Focus | Goal |
+|:---:|:---|
+| 💻 **Programming** | Strengthening C, Java & Python |
+| 📊 **Data Science** | Learning data analysis & visualization |
+| 🌐 **Development** | Building practical applications |
+| 🧠 **Problem Solving** | Improving DSA & logical thinking |
+| 🚀 **Projects** | Turning ideas into working products |
+
+</div>
+
+---
+
+# 🌱 My Approach
+
+<div align="center">
+
+### 💡 Idea
+
+↓
+
+### 🧠 Learn
+
+↓
+
+### 💻 Build
+
+↓
+
+### 🧪 Experiment
+
+↓
+
+### 📊 Analyze
+
+↓
+
+### 🚀 Improve
+
+</div>
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/meghtandel03">
+<img src="https://img.shields.io/badge/GitHub-meghtandel03-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/megh-tandel-0b1484311/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:meghtandel03@gmail.com">
+<img src="https://img.shields.io/badge/Email-meghtandel03%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
 
 📍 **Valsad, Gujarat, India**
-📞 **+91 7778814215**
 
 </div>
 
@@ -153,5 +468,7 @@ Long Jump — SVKM Yuva Utsav
 <div align="center">
 
 ### `Build • Learn • Compete • Repeat`
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:1E3A8A,100:0F172A&height=120&section=footer" width="100%"/>
 
 </div>
