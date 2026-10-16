@@ -116,110 +116,43 @@ Football • Athletics • Event Management
 
 ---
 
+
 # 🚀 Projects
 
 <div align="center">
 
-### 💻 Projects that turn learning into practical experience
+### 💻 Projects I've Built
 
 </div>
 
 <table>
 <tr>
 
-<td width="33%" valign="top">
+<td width="100%" valign="top">
 
-<h3 align="center">🍔 Project 01</h3>
+<h3 align="center">🎯 Object Detection Project</h3>
 
 <div align="center">
 
-### Online Food Ordering System
+An object detection application built as a practical computer vision project.
 
 </div>
 
-A console-based application designed to simulate an online food ordering workflow.
+### 🔧 Technologies
 
-**Built With**
+`Python` `Computer Vision` `Object Detection`
 
-`Java` `OOP`
+### 🚀 Project Highlights
 
-**Key Features**
-
-- Menu management
-- Customer orders
-- Order calculation
-- Menu-driven interface
+- Developed an application for object detection
+- Implemented computer vision concepts in a practical application
+- Worked with an object detection workflow from development to application
+- Built and organized the project as a dedicated GitHub repository
 
 <div align="center">
 
-<a href="https://github.com/meghtandel03">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</div>
-
-</td>
-
-<td width="33%" valign="top">
-
-<h3 align="center">📊 Project 02</h3>
-
-<div align="center">
-
-### Data Analytics Project
-
-</div>
-
-A data-focused project designed to analyze a real-world dataset and extract meaningful insights.
-
-**Built With**
-
-`Python` `Pandas` `SQL`
-
-**Key Features**
-
-- Data cleaning
-- Exploratory analysis
-- Data visualization
-- Insight generation
-
-<div align="center">
-
-<a href="https://github.com/meghtandel03">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</div>
-
-</td>
-
-<td width="33%" valign="top">
-
-<h3 align="center">🌐 Project 03</h3>
-
-<div align="center">
-
-### Personal Portfolio
-
-</div>
-
-A personal portfolio website showcasing my skills, projects, achievements and experience.
-
-**Built With**
-
-`HTML` `CSS` `JavaScript`
-
-**Key Features**
-
-- Responsive design
-- About section
-- Projects showcase
-- Contact section
-
-<div align="center">
-
-<a href="https://github.com/meghtandel03">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
+<a href="https://github.com/meghtandel03/Object_Detection_Project/tree/main/object-detection-app-main">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
